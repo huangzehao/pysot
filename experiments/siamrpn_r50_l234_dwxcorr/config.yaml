@@ -24,7 +24,7 @@ ANCHOR:
     ANCHOR_NUM: 5
 
 TRACK:
-    TYPE: 'pysot.tracker.siamrpn_tracker.SiamRPNTracker'
+    TYPE: 'pysot.tracker.siamrpn_tracker.BatchSiamRPNTracker'
     PENALTY_K: 0.05
     WINDOW_INFLUENCE: 0.42
     LR: 0.38
